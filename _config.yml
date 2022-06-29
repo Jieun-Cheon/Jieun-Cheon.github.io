@@ -16,14 +16,14 @@ minimal_mistakes_skin: "plum" #"plum", "default" "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "choiiis Devlog"
+title: "Jieun's DS log"
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "choiiis"
-description: "choiiis DevLog"
-url: "https://choiiis.github.io"
+description: "Jieun's DS Log"
+url: "https://Jieun-Cheon.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "choiiis/choiiis.github.io"
+repository: "Jieun-Cheon/Jieun-Cheon.github.io"
 teaser: #
 # logo                     : "/assets/images/meee.svg"
 #"/assets/images/monster.png"
@@ -90,16 +90,16 @@ analytics:
   provider: "google-gtag"
   # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "G-RB5HCLB3C2"
+    tracking_id: ""
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
-  name: "choiiis"
+  name: "Jieun-Cheon"
   avatar: "/assets/images/meee.svg"
   #   bio              : "Hamppiness!"
-  # location         : "Seoul, Korea"
-  # email            : "bemychoiiis@gmail.com"
+  location         : "Seoul, Korea"
+  email            : "jieuncheon88@gmail.com"
   links:
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
