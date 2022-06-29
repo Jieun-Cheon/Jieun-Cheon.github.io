@@ -1,12 +1,12 @@
 ---
-title: "Hi all! I'm choiiis👋🏻"
+title: "Hi! I'm Jieun-Cheon👋🏻"
 permalink: /about/
 layout: single
 comments: false
 ---
 
 <div>
-    <img src="/assets/images/avthm.jpg" alt="about_meee" width="70%" min-width="700px" itemprop="image">
+    <img src="/assets/images/56107370.jpeg" alt="about_meee" width="70%" min-width="700px" itemprop="image">
 </div>
 
 
@@ -16,19 +16,19 @@ comments: false
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">  Seoul, Korea</span>
         </li>
         <li>
-          <a href="https://github.com/choiiis" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/choiiis</span>
+          <a href="https://github.com/Jieun-Cheon" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/Jieun-Cheon</span>
           </a>
         </li>
         <li>
-          <a href="mailto:bemychoiiis@gmail.com">
-            <meta itemprop="email" content="bemychoiiis@gmail.com" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  bemychoiiis@gmail.com</span>
+          <a href="mailto:jieuncheon88@gmail.com">
+            <meta itemprop="email" content="jieuncheon88@gmail.com" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  jieuncheon88@gmail.com</span>
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/choiiis.dev/" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">  https://www.instagram.com/choiiis.dev/</span>
+          <a href="https://www.instagram.com/jieun.c_/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">  https://www.instagram.com/jieun.c_/</span>
           </a>
         </li>
     </ul>
