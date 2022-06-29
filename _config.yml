@@ -65,10 +65,10 @@ google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 # SEO Related
-google_site_verification: "LKDXdTbkqfYcDLaxd7-n3VyPtaYjoDXQ6axWfVew_VQ"
+google_site_verification: 
 bing_site_verification:
 yandex_site_verification:
-naver_site_verification: "adf9ff31fdd5483be60c146ecf49f0bb5ffc89e7"
+naver_site_verification: 
 
 # Social Sharing
 twitter:
@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name: "Jieun-Cheon"
-  avatar: "/assets/images/meee.svg"
+  #avatar: "/assets/images/self.svg"
   #   bio              : "Hamppiness!"
   location         : "Seoul, Korea"
   email            : "jieuncheon88@gmail.com"
@@ -118,7 +118,7 @@ author:
 #   url: "https://github.com/choiiis"
 # - label: "Instagram"
 #   icon: "fab fa-fw fa-instagram"
-#   url: "https://www.instagram.com/choiiis.dev/"
+#   url: "https://www.instagram.com/id"
 
 # Site Footer
 footer:
