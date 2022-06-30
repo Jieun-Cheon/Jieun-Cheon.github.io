@@ -26,7 +26,8 @@ Estimand, estimator, estimate, 신뢰구간, bootstrap, 표본분포, 표본오�
 <br>
 
 # 빈도주의 확률모형
-<img src="assets/images/posts_img/frequentist/frequentist-1.png" width="500">
+![frequentist-1](/assets/images/posts_img/frequentist/frequentist-1.png)
+
 불확실성을 계량적으로 표현하는 전략 → 확률모형
 
 불확실성이 생기는 원인은 절대적 진리인 데이터가 없어서 생김(전수조사 하는 시간, 비용, qhrwkqeh 등등..)
@@ -64,9 +65,9 @@ plot_histogram(0.2, 10, 100)
 plot_histogram(0.2, 10, 10000)
 ```
 
-<img src="assets/images/posts_img/frequentist/frequentist-2.png" width="500">
+![frequentist-2](/assets/images/posts_img/frequentist/frequentist-2.png)
 
-<img src="assets/images/posts_img/frequentist/frequentist-3.png" width="500">
+![frequentist-3](/assets/images/posts_img/frequentist/frequentist-3.png)
 
 멀티버스 개수가 늘면 확률값은 넓게 퍼지고, 확률값에 수렴 → 원래 성질에 수렴하는 것, 더 나아지는거 x
 
@@ -78,8 +79,8 @@ plot_histogram(0.2, 100, 100)
 plot_histogram(0.2, 100, 10000)
 ```
 
-<img src="assets/images/posts_img/frequentist/frequentist-4.png" width="500">
-<img src="assets/images/posts_img/frequentist/frequentist-5.png" width="500">
+![frequentist-4](/assets/images/posts_img/frequentist/frequentist-4.png)
+![frequentist-5](/assets/images/posts_img/frequentist/frequentist-5.png)
 
 한 번에 관찰하는 횟수가 많아질수록 추정치 근처로 촘촘하게 모임 → 한번에 관찰하는 횟수(표본의 크기, n) 영향 
 
@@ -131,7 +132,7 @@ p_hats = bootstrap(obs, 1000)
 sns.histplot(p_hats, bins = 10)
 ```
 
-<img src="assets/images/posts_img/frequentist/frequentist-6.png" width="500">
+![frequentist-6](/assets/images/posts_img/frequentist/frequentist-6.png)
 
 ```python
 p_hat = obs.mean() #p_hat = 0.6
