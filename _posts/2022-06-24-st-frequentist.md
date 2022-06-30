@@ -11,6 +11,8 @@ permalink: /categories/statistics/
 
 toc: true
 toc_sticky: true
+
+use_math: true
  
 date: 2022-06-24
 last_modified_at: 2022-06-24
