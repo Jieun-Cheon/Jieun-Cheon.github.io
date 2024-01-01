@@ -28,7 +28,7 @@ Multiple Regression Model Equation, Binary Categorical Variables, Interpretation
 # Introduction to Multiple Regression
 
 
- In multiple linear regression, the response variable must be quantitative, while the predictors may be either quantitative, categorical, or a mix of both. 
+In multiple linear regression, the response variable must be quantitative, while the predictors may be either quantitative, categorical, or a mix of both. 
 
 <br>
 <br>
