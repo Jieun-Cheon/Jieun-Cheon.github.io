@@ -1,6 +1,6 @@
 ---
 title: "[통계] Multiple Linear Regression"
-excerpt: "의사결정나무에서 사용되는 가장 기본적인 이론"
+excerpt: "--"
 
 categories:
   - Statistics
@@ -15,7 +15,7 @@ toc_sticky: true
 use_math: true
  
 date: 2024-01-01
-last_modified_at: 2024-01-21
+last_modified_at: 2024-01-01
 ---
 
 # Multiple Linear Regression
