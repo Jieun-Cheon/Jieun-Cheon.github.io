@@ -3,11 +3,11 @@ title: "[TWID] Today-What-I-Did."
 excerpt: "2022년 100일간 project"
 
 categories:
-  - Project_2022
+  - ResidueVault
 tags:
-  - [Project_2022]
+  - [ResidueVault]
 
-permalink: /categories/Project_2022/
+permalink: /categories/ResidueVault/
 
 toc: true
 toc_sticky: true
@@ -15,7 +15,7 @@ toc_sticky: true
 use_math: true
  
 date: 2022-09-23
-last_modified_at: 2022-09-23
+last_modified_at: 2024-01-02
 ---
 
 # Today-What-I-Did
